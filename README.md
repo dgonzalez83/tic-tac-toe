@@ -1,4 +1,4 @@
-This is a TIC-TAC-TOE game based on [official React Tutorial](https://es.reactjs.org/tutorial/tutorial.html) & [Scrimba](https://scrimba.com/learn/reactgame)
+This is a TIC-TAC-TOE game based on official [React Tutorial](https://es.reactjs.org/tutorial/tutorial.html) & [Scrimba](https://scrimba.com/learn/reactgame) with "Functional Components".
 
 ## Getting Started
 
